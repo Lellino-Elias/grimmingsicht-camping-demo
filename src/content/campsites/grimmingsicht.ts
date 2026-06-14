@@ -33,7 +33,7 @@ const grimmingsicht: CampsiteConfig = {
     {
       title: "Loipe vor der Tür",
       text: "Direkter Einstieg ins Langlaufnetz des Steirischen Salzkammerguts; die Tauplitzalm erreichst du mit dem Skibus in rund 20 Minuten.",
-      image: { src: `${IMG}/gallery-54adc18f80.webp`, alt: "Verschneiter Campingplatz Grimmingsicht im Winter mit Bergpanorama" },
+      image: { src: `${IMG}/gallery-66e25c1e35.webp`, alt: "Langläufer auf der Salzkammergutloipe mit Bergpanorama" },
     },
     {
       title: "Wandern & Radeln",
@@ -92,7 +92,7 @@ const grimmingsicht: CampsiteConfig = {
       {
         title: "Winter im Salzkammergut",
         text: "Wenn Schnee fällt, wird der Platz zum Ausgangspunkt für Loipe, Winterwanderung und Pferdeschlittenfahrt.",
-        image: { src: `${IMG}/gallery-8d5835caf3.webp`, alt: "Verschneites Bad Mitterndorf mit Kirchturm im Winter" },
+        image: { src: `${IMG}/gallery-54adc18f80.webp`, alt: "Verschneiter Campingplatz Grimmingsicht im Winter" },
       },
       {
         title: "Ganzjährig geöffnet",

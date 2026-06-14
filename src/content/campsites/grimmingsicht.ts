@@ -75,6 +75,11 @@ const grimmingsicht: CampsiteConfig = {
       "Ebene Wiesen- und Schotterplätze mit Strom, warmes Wasser ohne Münzen und ein Sandplatz für laue Abende — Camping, das Sommer wie Winter funktioniert.",
     features: [
       {
+        title: "Mitten im grünen Talboden",
+        text: "Weite Wiesen, Bäume und Bergblick: der Platz liegt ruhig am Ortsrand von Bad Mitterndorf.",
+        image: { src: `${IMG}/gallery-067ee49b9c.webp`, alt: "Luftaufnahme der Wohnwagen-Stellplätze im grünen Talboden" },
+      },
+      {
         title: "Sandplatz & laue Abende",
         text: "Der Sandplatz fängt die Abendsonne ein — der ideale Ort, um einen Campingtag gemütlich ausklingen zu lassen.",
         image: { src: `${IMG}/gallery-826c7f406e.webp`, alt: "Sandplatz am Camping Grimmingsicht im Abendlicht" },
@@ -83,11 +88,6 @@ const grimmingsicht: CampsiteConfig = {
         title: "Ebene Stellplätze mit Strom",
         text: "Großzügige, ebene Plätze mit Stromanschluss — für Wohnwagen und Wohnmobil bis 8 Meter Länge.",
         image: { src: `${IMG}/gallery-360acb5d86.webp`, alt: "Luftbild der ebenen Stellplätze am Camping Grimmingsicht" },
-      },
-      {
-        title: "Mitten im grünen Talboden",
-        text: "Weite Wiesen, Bäume und Bergblick: der Platz liegt ruhig am Ortsrand von Bad Mitterndorf.",
-        image: { src: `${IMG}/gallery-067ee49b9c.webp`, alt: "Luftaufnahme der Wohnwagen-Stellplätze im grünen Talboden" },
       },
       {
         title: "Winter im Salzkammergut",

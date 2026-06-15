@@ -61,11 +61,11 @@ const grimmingsicht: CampsiteConfig = {
   awards: [],
 
   hero: {
-    aerial: { src: `${IMG}/gallery-2d6424871f.webp`, alt: "Luftaufnahme von Camping Grimmingsicht mit Stellplätzen und Bergkulisse" },
+    aerial: { src: `${IMG}/gallery-9a542b994c.webp`, alt: "Luftaufnahme von Camping Grimmingsicht mit Wohnwagen, Stellplätzen und Bergkulisse" },
   },
 
   breather: {
-    image: { src: `${IMG}/gallery-7dcf948dff.webp`, alt: "Luftbild des Campingplatzes Grimmingsicht zwischen Wiesen und Bergen" },
+    image: { src: `${IMG}/gallery-b34d4f89a4.webp`, alt: "Blick auf den Grimming mit Talblick und Campingeinfahrt von Grimmingsicht" },
     line: "Ländliche Ruhe, Berge ringsum — mitten im Steirischen Salzkammergut.",
   },
 
@@ -77,7 +77,7 @@ const grimmingsicht: CampsiteConfig = {
       {
         title: "Mitten im grünen Talboden",
         text: "Weite Wiesen, Bäume und Bergblick: der Platz liegt ruhig am Ortsrand von Bad Mitterndorf.",
-        image: { src: `${IMG}/gallery-067ee49b9c.webp`, alt: "Luftaufnahme der Wohnwagen-Stellplätze im grünen Talboden" },
+        image: { src: `${IMG}/gallery-b82306c934.webp`, alt: "Luftaufnahme von Camping Grimmingsicht mit Wohnwagen im grünen Talboden und Bergen im Hintergrund" },
       },
       {
         title: "Sandplatz & laue Abende",
@@ -87,7 +87,7 @@ const grimmingsicht: CampsiteConfig = {
       {
         title: "Ebene Stellplätze mit Strom",
         text: "Großzügige, ebene Plätze mit Stromanschluss — für Wohnwagen und Wohnmobil bis 8 Meter Länge.",
-        image: { src: `${IMG}/gallery-360acb5d86.webp`, alt: "Luftbild der ebenen Stellplätze am Camping Grimmingsicht" },
+        image: { src: `${IMG}/gallery-ccee71e179.webp`, alt: "Luftbild der Stellplätze am Camping Grimmingsicht mit Dorf und Bergpanorama" },
       },
       {
         title: "Winter im Salzkammergut",
@@ -102,7 +102,7 @@ const grimmingsicht: CampsiteConfig = {
       {
         title: "Ländliche Ruhe",
         text: "Frische Bergluft, das Plätschern klarer Bäche und stille Wälder — Erholung für Jung und Alt.",
-        image: { src: `${IMG}/gallery-2d8d47cc3c.webp`, alt: "Luftbild von Bad Mitterndorf mit Wiesen und Bergen" },
+        image: { src: `${IMG}/gallery-b596b02258.webp`, alt: "Luftaufnahme des Steirischen Salzkammerguts mit Dorf, Wiesen und Bergkette" },
       },
     ],
   },
@@ -156,9 +156,9 @@ const grimmingsicht: CampsiteConfig = {
     tag: "Sommer & Winter",
     moreCount: 40,
     images: [
-      { src: `${IMG}/gallery-99babadc71.webp`, alt: "Luftaufnahme des Campingplatzes mit Bach und Bergen" },
-      { src: `${IMG}/gallery-2505962bd6.webp`, alt: "Wohnbereich im Appartement von Camping Grimmingsicht" },
-      { src: `${IMG}/gallery-a3326c4cf4.webp`, alt: "Küche im Mietwohnwagen am Camping Grimmingsicht" },
+      { src: `${IMG}/gallery-2d6424871f.webp`, alt: "Luftaufnahme von Camping Grimmingsicht mit Wohnwagen, Stellplätzen und Bergkulisse" },
+      { src: `${IMG}/gallery-f6bedbdcc7.webp`, alt: "Stellplatz am Camping Grimmingsicht mit modernem Caravan und Jeep im Sommer" },
+      { src: `${IMG}/gallery-0882f70cb2.webp`, alt: "Doppelzimmer im Pension Grimmingsicht mit grüner Tapete und frischer Bettwäsche" },
       { src: `${IMG}/accommodation-01e37a27e0.webp`, alt: "Gemütlicher Wohnraum im Appartement" },
     ],
   },
